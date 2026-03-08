@@ -1,2 +1,5 @@
 # School-Library-Management-System-COMP-2090SEF-Project-
-School Library Management System(COMP 2090SEF Project)
+Team: CHANG Tsz-Hin, Tin Hiu-Yeung, Lau Pak-Yin
+
+This is a project about School Library Management System using basic Object-Oriented Programming
+and also a self study about data structure and algrithm of Python.
